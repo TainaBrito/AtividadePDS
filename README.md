@@ -7,6 +7,12 @@
 
 
 
+
+
+
+
+
+
 class Produto:
     def __init__(self, nome, lote, validade, fornecedor, quantidade):
         self.nome = nome
