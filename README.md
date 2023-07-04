@@ -1,6 +1,6 @@
 # AtividadePDS
-Controle Farmacêutico
-Linguagem: Python
+//Controle Farmacêutico
+//Linguagem: Python
 
 
 
